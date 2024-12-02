@@ -24,7 +24,7 @@ header img{
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 5px solid #5bbe42;
+  border: 5px solid #401296;
 }
 
 
@@ -34,7 +34,7 @@ header img{
 
 
 h1 {
-  color: #5bbe42;
+  color:blueviolet
 }
 
 
@@ -67,7 +67,7 @@ footer p {
 
 
 nav a:hover {
-  color: #5bbe42;
+  color: aquamarine;
 }
 
 
